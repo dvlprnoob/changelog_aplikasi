@@ -1,0 +1,10 @@
+[
+    {
+      "version": "1.5.0",
+      "changelog": "- [Fixing] Dashboard Cache Webview \n- [Fixing] Bug fixes \n- [Update] Improved performance"
+    },
+    {
+      "version": "1.4.0",
+      "changelog": "- [Update] Tampilan login baru\n- [Fixing] Perbaikan notifikasi"
+    }
+  ]
