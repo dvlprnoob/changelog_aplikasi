@@ -1,7 +1,7 @@
 [
     {
       "version": "1.5.0",
-      "changelog": "- [Fixing] Dashboard Cache Webview \n- [Fixing] Bug fixes \n- [Update] Improved performance"
+      "changelog": "- [Fixing] Dashboard Cache Webview \n- [Fixing] Bug fixes \n- [Update] Improved performance \n- [Add] Version Page"
     },
     {
       "version": "1.4.0",
