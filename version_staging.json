@@ -1,0 +1,10 @@
+[
+  {
+    "version": "1.7.0-staging",
+    "changelog": "[Staging] Testing new feature X"
+  },
+  {
+    "version": "1.6.5-staging",
+    "changelog": "[Staging] Minor bugfixes"
+  }
+]
