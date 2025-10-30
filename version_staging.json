@@ -1,10 +1,10 @@
 [
-  {
-    "version": "1.7.0-staging",
-    "changelog": "[Staging] Testing new feature X"
+   {
+    "version": "1.8.0-staging",
+    "changelog": "[Staging] Testing Pemisahan Pemanggilan API dan Build"
   },
   {
-    "version": "1.6.5-staging",
-    "changelog": "[Staging] Minor bugfixes"
+    "version": "1.7.5-staging",
+    "changelog": "[Staging] Penambahan kondisi error statuscode (422) pada saat turun jaga"
   }
 ]
