@@ -1,5 +1,9 @@
 [
-   {
+  {
+    "version": "1.1.0-staging",
+    "changelog": "[Staging] Perubahan dalam profile , supaya ada ada session log loginnya."
+  },
+  {
     "version": "1.8.0-staging",
     "changelog": "[Staging] Testing Pemisahan Pemanggilan API dan Build"
   },
